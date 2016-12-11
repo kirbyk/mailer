@@ -15,6 +15,7 @@ $ npm install mailer
 ### development (use this one)
 
 ```bash
+$ git clone https://github.com/kirbyk/mailer.git
 $ npm install
 $ npm link
 ```
