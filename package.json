@@ -1,0 +1,18 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "Send emails with Mailgun via the command line or other js applications.",
+  "main": "index.js",
+  "bin": {
+    "mailer": "bin/mailer.js"
+  },
+  "author": "Kirby Kohlmorgen",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "2.0.0",
+    "joi": "10.0.5",
+    "js-yaml": "3.7.0",
+    "nodemailer": "2.6.4",
+    "nodemailer-mailgun-transport": "1.2.2"
+  }
+}

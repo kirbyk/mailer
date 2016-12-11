@@ -1,0 +1,8 @@
+domain: 'kirby.xyz'
+from: 'Kirby <hi@kirby.xyz>'
+to: 'email@example.com'
+subject: 'Hello'
+html: 
+  file: 'email.html'
+text:
+  file: 'email.txt'
