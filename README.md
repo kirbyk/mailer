@@ -16,6 +16,7 @@ $ npm install mailer
 
 ```bash
 $ git clone https://github.com/kirbyk/mailer.git
+$ cd mailer
 $ npm install
 $ npm link
 ```
