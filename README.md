@@ -42,8 +42,17 @@ text:
   file: 'email.txt'
 ```
 
-- [email.html](blob/master/example/email.html)
-- [email.txt](blob/master/example/email.txt)
+*example/email.html*
+
+```html
+<h1>Hello world!<h1>
+```
+
+*example/email.txt*
+
+```html
+Hello world!
+```
 
 ### code
 
