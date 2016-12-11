@@ -52,9 +52,9 @@ const mailer = require('mailer');
 
 const options = {
   domain: 'kirby.xyz',
-  from: 'Kirby <hi@kirby.xyz>'
-  to: 'email@example.com'
-  subject: 'Hello'
+  from: 'Kirby <hi@kirby.xyz>',
+  to: 'email@example.com',
+  subject: 'Hello',
   html: {
     inline: '<h1>Hello world!</h1>'
   },
