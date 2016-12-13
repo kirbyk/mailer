@@ -1,3 +1,5 @@
+'use strict';
+
 require('dotenv').config({silent:true});
 const joi = require('joi');
 const mg = require('nodemailer-mailgun-transport');
