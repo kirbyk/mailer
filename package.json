@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "2.0.0",
-    "joi": "10.0.5",
+    "joi": "10.6.0",
     "js-yaml": "3.7.0",
     "nodemailer": "2.6.4",
     "nodemailer-mailgun-transport": "1.2.2"
