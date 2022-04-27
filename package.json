@@ -13,6 +13,6 @@
     "joi": "10.0.5",
     "js-yaml": "3.7.0",
     "nodemailer": "2.6.4",
-    "nodemailer-mailgun-transport": "1.2.2"
+    "nodemailer-mailgun-transport": "1.4.0"
   }
 }
